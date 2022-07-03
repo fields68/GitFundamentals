@@ -14,15 +14,6 @@ Here is a growing collection of resources and helpful commands to know when work
 - [git pull](./commands/Pull.md)
 - [git status](./commands/Status.md)
 - [git clone](./commands/Clone.md)
-- [git config](./commands/Config2.md)
-- [git init](./commands/Init2.md)
-- [git add](./commands/Add2.md)
-- [git commit](./commands/Commit2.md)
-- [git remote](./commands/Remote2.md)
-- [git push](./commands/Push2.md)
-- [git pull](./commands/Pull2.md)
-- [git status](./commands/Status2.md)
-- [git clone](./commands/Clone2.md)
 
 
 ## External Resources
